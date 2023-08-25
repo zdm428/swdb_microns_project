@@ -1,0 +1,5 @@
+metadata_version: 1
+name: SWDB Microns Template
+description: Template Capsule for using the Microns dataset for the Summer Workshop on the Dynamic Brain 2023.
+authors:
+- name: SWDB
